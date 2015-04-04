@@ -1,0 +1,4 @@
+Open Drain Output
+
+1. https://github.com/energia/Energia/issues/336
+2. http://arm-webradio.googlecode.com/svn-history/r37/trunk/src/io.c ---> Actual Code
